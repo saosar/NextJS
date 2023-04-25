@@ -1,5 +1,5 @@
 # NextJS
-Repository for first projects with NextJS
+Repository for first projects with NextJS - SIMPLE TO DO LIST 
 
 
 ︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻︻
